@@ -1,18 +1,56 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>World population</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.3.0/Chart.min.js"></script>
-    <link rel="stylesheet" type="text/css" href="style.css">
-  </head>
-  <body>
-    <div class="wrapper">
-      <h1>Seznam topicov za Medicino</h1>
-      <h2>Poskusno</h2>
-
-      <canvas id="myChart" width="1600" height="900"></canvas>
-    </div>
-
-    <script src="script.js"></script>
-  </body>
+<html lang="en">
+	<head>
+		<title>Chart.js Example</title>
+		<link rel="stylesheet" href="docsupport/style.css">
+		<link rel="stylesheet" href="docsupport/prism.css">
+		<link rel="stylesheet" href="chosen.css">
+	</head>
+		<body>
+			<form>
+				<div id="container">
+					<div id="content">
+						<header>
+							<h1>University of Maribor</h1>
+							<h3>Topic trends (last 10 years)</h3>
+						</header>
+						<div class="side-by-side clearfix">
+							<h2>Chose topics:</h2>
+							<select id="choice" data-placeholder="Choose a field of study .." class="chosen-select" multiple tabindex="4">
+								<option value=""/>
+								<option value="Art">Art</option>
+								<option value="Biology">Biology</option>
+								<option value="Business">Business</option>
+								<option value="Chemistry">Chemistry</option>
+								<option value="Economics">Economics</option>
+								<option value="Education">Education</option>
+								<option value="Engineering">Engineering</option>
+								<option value="Geography">Geography</option>
+								<option value="Geology">Geology</option>
+								<option value="History">History</option>
+								<option value="Law">Law</option>
+								<option value="Linguistics">Linguistics</option>
+								<option value="Mathematics">Mathematics</option>
+								<option value="Medicine">Medicine</option>
+								<option value="Philosophy">Philosophy</option>
+								<option value="Physics">Physics</option>
+								<option value="Psychology">Psychology</option>
+								<option value="Sociology">Sociology</option>
+							</select>
+						</div>
+						<div class="wrapper">
+							<h2>Chosen topics: <p id="p1" style="display:inline; color:orange">None</p>
+							</h2>
+							<canvas id="myChart" width="1600" height="900"/>
+						</div>
+					</div>
+				</div>
+				<script src="docsupport/jquery-3.2.1.min.js" type="text/javascript"/>
+				<script src="chosen.jquery.js" type="text/javascript"/>
+				<script src="docsupport/prism.js" type="text/javascript" charset="utf-8"/>
+				<script src="docsupport/init.js" type="text/javascript" charset="utf-8"/>
+				<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.3.0/Chart.min.js"/>
+				<script src="script.js"/>
+			</form>
+		</body>
 </html>
