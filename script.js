@@ -291,6 +291,11 @@ $(document).ready(function () {
     });
   });
 
+
+
+	
+	
+	
   var myChart = new Chart($("#myChart"), {
     type: "line",
     data: {
