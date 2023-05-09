@@ -16,7 +16,7 @@ $(document).ready(function () {
 	var selectedOption =  $(this).val();
     var filteredData = [];
 	
-	var cnt = $('li.search-choice').length;
+	var cnt = selectedOption.length; //$('li.search-choice')
 
 	if(cnt>2 && flag){
 		flag = false;
