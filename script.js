@@ -24,10 +24,10 @@ $(document).ready(function () {
 		//$('li.search-choice').last().remove();
 		document.getElementById("p1").innerHTML = "Too many fields chosen (Max 2)."; //"Too many fields chosen (Max 2)."; 
 		return false;
-	}else if (cnt<=3){
+	}else if (cnt<=2){
 		document.getElementById("p1").innerHTML = selectedOption; //"Too many fields chosen (Max 2)."; 
 		flag = true;
-	}
+	
 
 		if (selectedOption.includes("Art")) {
 				filteredData.push(
@@ -248,7 +248,7 @@ $(document).ready(function () {
 			{"data": [1, 2, 0, 0, 5, 2, 2, 6, 3, 1], "label": "-1_music_polit_develop_educ", "borderColor": "#E6F532", "fill": false}, {"data": [3, 2, 2, 5, 4, 3, 2, 3, 3, 0], "label": "0_system_network_social_human", "borderColor": "#FE63E9", "fill": false}, {"data": [1, 1, 3, 0, 2, 3, 2, 5, 2, 1], "label": "1_languag_teacher_school_slovenian", "borderColor": "#8D1AD1", "fill": false}, {"data": [0, 0, 0, 1, 1, 0, 4, 2, 2, 3], "label": "2_heritag_brand_destin_tourist", "borderColor": "#B0841F", "fill": false}, {"data": [0, 0, 0, 0, 0, 2, 3, 1, 2, 0], "label": "3_learn_technolog_literaci_approach", "borderColor": "#975A64", "fill": false}, {"data": [0, 1, 1, 0, 0, 2, 0, 2, 0, 0], "label": "4_polic_prison_resid_communiti", "borderColor": "#13EF2B", "fill": false}, {"data": [0, 0, 0, 0, 2, 2, 0, 1, 0, 0], "label": "5_nurs_humour_informat_nursing informat", "borderColor": "#F26753", "fill": false}
 			)
 		}
-		
+	}
 	
 	
 	//document.getElementById("p1").innerHTML = selectedOption; //selectedOption;
