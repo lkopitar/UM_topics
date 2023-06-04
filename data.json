@@ -1,0 +1,620 @@
+{
+	"Law": [{
+		"data": [0, 0, 0, 0, 0, 0, 0, 0, 1, 6],
+		"label": "-1_polic_offic_police offic_law",
+		"borderColor": "#206C70",
+		"fill": false
+	}],
+	"Geography": [{
+		"data": [3, 6, 2, 10, 1, 4, 3, 8, 4, 0],
+		"label": "0_develop_citi_slovenia_studi",
+		"borderColor": "#7296BF",
+		"fill": false
+	}, {
+		"data": [2, 2, 1, 2, 1, 2, 0, 5, 4, 0],
+		"label": "1_speci_plant_habitat_divers",
+		"borderColor": "#E87557",
+		"fill": false
+	}],
+	"Economics": [{
+		"data": [11, 10, 18, 18, 19, 20, 11, 5, 16, 21],
+		"label": "0_model_paper_studi_develop",
+		"borderColor": "#1507F5",
+		"fill": false
+	}, {
+		"data": [3, 9, 3, 2, 3, 4, 3, 7, 1, 0],
+		"label": "1_cooper_strategi_game_defector",
+		"borderColor": "#B480F8",
+		"fill": false
+	}],
+	"Computer Science": [{
+		"data": [6, 11, 6, 8, 10, 24, 24, 31, 25, 17],
+		"label": "-1_smart_control_thz_develop",
+		"borderColor": "#B9F2EB",
+		"fill": false
+	}, {
+		"data": [9, 14, 8, 6, 8, 8, 5, 8, 7, 3],
+		"label": "0_cooper_dilemma_strategi_game",
+		"borderColor": "#833321",
+		"fill": false
+	}, {
+		"data": [8, 3, 3, 5, 4, 7, 11, 6, 5, 2],
+		"label": "1_inspir_algorithm_nature inspir_inspired algorithm",
+		"borderColor": "#26F276",
+		"fill": false
+	}, {
+		"data": [1, 1, 1, 3, 5, 8, 9, 12, 6, 2],
+		"label": "2_graph_document docu_document_domin",
+		"borderColor": "#FD0A22",
+		"fill": false
+	}, {
+		"data": [1, 2, 1, 1, 2, 6, 9, 7, 2, 4],
+		"label": "3_student_learn_educ_teach",
+		"borderColor": "#3A2B6D",
+		"fill": false
+	}, {
+		"data": [0, 4, 0, 0, 5, 2, 3, 5, 2, 4],
+		"label": "4_recommend_entiti_udc_ontolog",
+		"borderColor": "#80DE0C",
+		"fill": false
+	}, {
+		"data": [3, 0, 2, 1, 5, 5, 2, 2, 3, 0],
+		"label": "5_muscl_emg_motor unit_motor",
+		"borderColor": "#91B91B",
+		"fill": false
+	}, {
+		"data": [2, 1, 2, 0, 1, 4, 3, 4, 3, 2],
+		"label": "6_criteria_multiple criteria_hesitant fuzzi_fuzzy linguist",
+		"borderColor": "#1CB2C3",
+		"fill": false
+	}, {
+		"data": [3, 4, 2, 1, 3, 1, 3, 2, 1, 1],
+		"label": "7_current_invert_magnet_rotor",
+		"borderColor": "#9042F5",
+		"fill": false
+	}, {
+		"data": [1, 1, 1, 1, 1, 3, 4, 2, 4, 2],
+		"label": "8_mml_mml mml_lidar_tree",
+		"borderColor": "#12C6A4",
+		"fill": false
+	}],
+	"Education": [{
+		"data": [0, 0, 0, 0, 1, 2, 2, 2, 5, 12],
+		"label": "-1_student_valu_school_scienc",
+		"borderColor": "#292A57",
+		"fill": false
+	}, {
+		"data": [0, 0, 1, 0, 0, 0, 1, 2, 6, 6],
+		"label": "0_learn_student_studi_softwar",
+		"borderColor": "#A50385",
+		"fill": false
+	}, {
+		"data": [0, 0, 0, 0, 0, 0, 0, 2, 9, 3],
+		"label": "1_creativ_pupil_art_cultur",
+		"borderColor": "#F3ADAC",
+		"fill": false
+	}, {
+		"data": [0, 0, 1, 0, 0, 0, 0, 1, 5, 6],
+		"label": "2_sport_athlet_children_parent",
+		"borderColor": "#D9F2DA",
+		"fill": false
+	}, {
+		"data": [0, 0, 0, 0, 0, 1, 1, 1, 3, 2],
+		"label": "3_evolut_laboratori_scientif_evolutionari",
+		"borderColor": "#408D91",
+		"fill": false
+	}],
+	"Medicine": [{
+		"data": [13, 15, 25, 16, 20, 36, 39, 53, 78, 79],
+		"label": "-1_medic_rt_intervent_parent",
+		"borderColor": "#C82E7B",
+		"fill": false
+	}, {
+		"data": [8, 11, 7, 8, 3, 3, 5, 9, 5, 6],
+		"label": "0_cooper_game_punish_dilemma",
+		"borderColor": "#1E3ADF",
+		"fill": false
+	}, {
+		"data": [5, 3, 4, 4, 5, 3, 3, 3, 13, 5],
+		"label": "1_ckd_creatinin_kidney_cystatin",
+		"borderColor": "#E6A47C",
+		"fill": false
+	}, {
+		"data": [5, 6, 6, 4, 3, 5, 3, 9, 2, 2],
+		"label": "2_nemat_chiral_phase_liquid cryst",
+		"borderColor": "#8BE300",
+		"fill": false
+	}, {
+		"data": [0, 1, 4, 6, 3, 1, 6, 3, 15, 5],
+		"label": "3_breast_cancer_endometri_breast canc",
+		"borderColor": "#1658B3",
+		"fill": false
+	}, {
+		"data": [2, 2, 1, 2, 6, 2, 6, 7, 12, 3],
+		"label": "4_cov_resect_endoscop_surgeri",
+		"borderColor": "#EB39E5",
+		"fill": false
+	}, {
+		"data": [3, 4, 2, 3, 3, 2, 5, 3, 8, 9],
+		"label": "5_probi_bind_ligand_binding sit",
+		"borderColor": "#0D223A",
+		"fill": false
+	}, {
+		"data": [5, 1, 3, 0, 4, 1, 5, 2, 12, 9],
+		"label": "6_beta cel_ca2_beta_islet",
+		"borderColor": "#2BCCE1",
+		"fill": false
+	}, {
+		"data": [7, 0, 5, 5, 4, 4, 3, 2, 6, 0],
+		"label": "7_decay_branching fract_bell_1s",
+		"borderColor": "#B17BED",
+		"fill": false
+	}, {
+		"data": [0, 1, 1, 3, 4, 2, 5, 3, 4, 8],
+		"label": "8_bibliometr_journal_literature product_informat",
+		"borderColor": "#CDC06A",
+		"fill": false
+	}],
+	"Art": [{
+		"data": [0, 2, 0, 4, 1, 1, 0, 1, 2, 4],
+		"label": "-1_author_munro_award_stori",
+		"borderColor": "#37E867",
+		"fill": false
+	}, {
+		"data": [0, 1, 0, 0, 0, 1, 6, 1, 0, 0],
+		"label": "0_english_sloven_origin_scientif",
+		"borderColor": "#5CBE98",
+		"fill": false
+	}, {
+		"data": [0, 1, 0, 3, 0, 0, 1, 0, 3, 0],
+		"label": "1_poetri_poem_steven_song",
+		"borderColor": "#6BFE32",
+		"fill": false
+	}],
+	"Sociology": [{
+		"data": [1, 1, 0, 0, 2, 2, 1, 3, 2, 0],
+		"label": "-1_music_youth_game_polit",
+		"borderColor": "#D39641",
+		"fill": false
+	}, {
+		"data": [1, 2, 3, 1, 7, 4, 6, 11, 5, 5],
+		"label": "0_nurs_languag_heritag_studi",
+		"borderColor": "#453EBD",
+		"fill": false
+	}, {
+		"data": [3, 2, 2, 5, 4, 4, 3, 3, 3, 0],
+		"label": "1_system_social_network_human",
+		"borderColor": "#BD8596",
+		"fill": false
+	}, {
+		"data": [0, 0, 0, 0, 0, 2, 3, 1, 2, 0],
+		"label": "2_learn_approach_technolog_literaci",
+		"borderColor": "#239D4D",
+		"fill": false
+	}, {
+		"data": [0, 1, 1, 0, 1, 2, 0, 2, 0, 0],
+		"label": "3_polic_prison_resid_communiti",
+		"borderColor": "#B43306",
+		"fill": false
+	}],
+	"Physics": [{
+		"data": [1, 4, 4, 2, 2, 8, 4, 8, 6, 9],
+		"label": "-1_document_document docu_cooper_social",
+		"borderColor": "#1195F0",
+		"fill": false
+	}, {
+		"data": [23, 17, 21, 17, 21, 25, 14, 18, 14, 2],
+		"label": "0_pi_decay_bell_branch",
+		"borderColor": "#31DB07",
+		"fill": false
+	}, {
+		"data": [5, 8, 4, 4, 6, 5, 6, 5, 5, 0],
+		"label": "1_nemat_liquid_membran_crystal",
+		"borderColor": "#315291",
+		"fill": false
+	}, {
+		"data": [2, 3, 3, 5, 6, 5, 5, 5, 2, 1],
+		"label": "2_neuron_oscil_chimera_stochast",
+		"borderColor": "#74DF2A",
+		"fill": false
+	}, {
+		"data": [1, 1, 1, 1, 8, 6, 9, 1, 3, 3],
+		"label": "3_develop_tool_build_paper",
+		"borderColor": "#CBE4BF",
+		"fill": false
+	}, {
+		"data": [1, 5, 0, 1, 3, 1, 1, 3, 3, 2],
+		"label": "4_network_lie_trust_sender",
+		"borderColor": "#60117B",
+		"fill": false
+	}, {
+		"data": [2, 3, 1, 1, 1, 3, 0, 1, 2, 0],
+		"label": "5_strategi_payoff_player_conform",
+		"borderColor": "#D70323",
+		"fill": false
+	}, {
+		"data": [2, 0, 1, 0, 0, 1, 2, 1, 3, 2],
+		"label": "6_scienc_univers_institut_nation",
+		"borderColor": "#8EEF65",
+		"fill": false
+	}, {
+		"data": [0, 2, 0, 1, 2, 0, 1, 3, 1, 2],
+		"label": "7_magnet_permanent magnet_disk_perman",
+		"borderColor": "#236DBD",
+		"fill": false
+	}, {
+		"data": [1, 2, 1, 2, 1, 1, 1, 2, 0, 0],
+		"label": "8_invas_speci_rock_scissor",
+		"borderColor": "#F1CE5D",
+		"fill": false
+	}],
+	"Biology": [{
+		"data": [6, 7, 9, 11, 4, 3, 4, 4, 4, 4],
+		"label": "-1_mutat_clone_product_tannin",
+		"borderColor": "#440A6E",
+		"fill": false
+	}, {
+		"data": [10, 17, 8, 9, 6, 6, 2, 9, 2, 2],
+		"label": "0_cooper_game_network_strategi",
+		"borderColor": "#720B6A",
+		"fill": false
+	}, {
+		"data": [2, 1, 1, 5, 2, 2, 6, 6, 2, 2],
+		"label": "1_bee_coloni_queen_honey be",
+		"borderColor": "#A3BCC1",
+		"fill": false
+	}, {
+		"data": [1, 4, 1, 3, 4, 3, 2, 6, 2, 0],
+		"label": "2_probiot_microbiota_mrsa_hospit",
+		"borderColor": "#333D16",
+		"fill": false
+	}, {
+		"data": [3, 1, 1, 2, 4, 2, 2, 2, 3, 0],
+		"label": "3_habitat_plant_speci_grassland",
+		"borderColor": "#A21834",
+		"fill": false
+	}, {
+		"data": [2, 2, 0, 2, 5, 2, 1, 2, 2, 2],
+		"label": "4_bind_protein_site_drug",
+		"borderColor": "#C0540E",
+		"fill": false
+	}, {
+		"data": [2, 3, 2, 1, 1, 3, 1, 2, 0, 0],
+		"label": "5_difficil_ribotyp_toxin_pcr ribotyp",
+		"borderColor": "#DD229E",
+		"fill": false
+	}, {
+		"data": [0, 0, 0, 4, 4, 4, 2, 0, 0, 0],
+		"label": "6_multipl_sle_diseas_suscept",
+		"borderColor": "#F3317A",
+		"fill": false
+	}, {
+		"data": [1, 1, 1, 4, 2, 0, 2, 1, 1, 0],
+		"label": "7_genotyp_rootstock_fruit_hybrid",
+		"borderColor": "#A68DB3",
+		"fill": false
+	}, {
+		"data": [0, 1, 2, 3, 2, 2, 1, 1, 1, 0],
+		"label": "8_neuron_input_motoneuron_stochast",
+		"borderColor": "#5CF1D1",
+		"fill": false
+	}],
+	"Chemistry": [{
+		"data": [11, 6, 12, 9, 7, 6, 12, 7, 5, 2],
+		"label": "-1_membran_increas_reaction_dye",
+		"borderColor": "#DD4043",
+		"fill": false
+	}, {
+		"data": [1, 0, 2, 4, 4, 9, 9, 16, 5, 0],
+		"label": "0_extract_content_phenol_seed",
+		"borderColor": "#42A807",
+		"fill": false
+	}, {
+		"data": [0, 1, 0, 3, 2, 5, 7, 6, 2, 0],
+		"label": "1_inhibitor_dock_compound_protein",
+		"borderColor": "#71924B",
+		"fill": false
+	}, {
+		"data": [2, 0, 2, 3, 0, 3, 4, 3, 1, 4],
+		"label": "2_magnet_nanoparticl_immobil_aunp",
+		"borderColor": "#127FA4",
+		"fill": false
+	}, {
+		"data": [1, 2, 1, 1, 3, 2, 1, 4, 2, 1],
+		"label": "3_membran_remov_foul_filtrat",
+		"borderColor": "#9FDCEF",
+		"fill": false
+	}, {
+		"data": [3, 1, 4, 1, 2, 3, 0, 0, 1, 0],
+		"label": "4_fluoresc_photochrom_fluorin_ucnp",
+		"borderColor": "#03989A",
+		"fill": false
+	}, {
+		"data": [1, 0, 1, 1, 2, 2, 3, 1, 3, 0],
+		"label": "5_ca2_cell_fire_motor",
+		"borderColor": "#F56720",
+		"fill": false
+	}, {
+		"data": [0, 1, 0, 3, 0, 4, 2, 2, 0, 0],
+		"label": "6_ti_hydrogel_bead_biofilm",
+		"borderColor": "#EC1933",
+		"fill": false
+	}, {
+		"data": [0, 0, 2, 4, 0, 1, 1, 3, 0, 1],
+		"label": "7_black yeast_degrad_black_yeast",
+		"borderColor": "#7BBB7D",
+		"fill": false
+	}, {
+		"data": [0, 2, 2, 1, 1, 1, 1, 3, 0, 0],
+		"label": "8_multival_bind_probe_superselect",
+		"borderColor": "#6198B6",
+		"fill": false
+	}],
+	"Political Science": [{
+		"data": [0, 0, 0, 0, 0, 0, 0, 1, 1, 0],
+		"label": "-1_access_sf_websit_recommend",
+		"borderColor": "#C697EF",
+		"fill": false
+	}, {
+		"data": [4, 6, 8, 2, 10, 6, 9, 22, 13, 5],
+		"label": "0_slovenian_health_slovenia_studi",
+		"borderColor": "#066ED7",
+		"fill": false
+	}, {
+		"data": [0, 1, 0, 1, 2, 1, 1, 1, 1, 0],
+		"label": "1_product_journal_public_literature product",
+		"borderColor": "#AF1E34",
+		"fill": false
+	}],
+	"Business": [{
+		"data": [13, 22, 27, 34, 34, 33, 47, 76, 56, 67],
+		"label": "0_manag_compani_studi_model",
+		"borderColor": "#CC96E8",
+		"fill": false
+	}, {
+		"data": [0, 1, 3, 2, 1, 0, 1, 2, 2, 0],
+		"label": "1_cooper_game_punish_reward",
+		"borderColor": "#3EE303",
+		"fill": false
+	}],
+	"Agricultural And Food Sciences": [{
+		"data": [0, 0, 0, 0, 0, 0, 0, 0, 2, 3],
+		"label": "-1_slope_wine_tannin_climate chang",
+		"borderColor": "#2BBC24",
+		"fill": false
+	}, {
+		"data": [0, 0, 0, 0, 0, 1, 0, 1, 4, 4],
+		"label": "0_studi_extract_viscos_imidacloprid",
+		"borderColor": "#98E025",
+		"fill": false
+	}, {
+		"data": [0, 0, 0, 0, 0, 0, 0, 0, 3, 5],
+		"label": "1_breed_piglet_sustain_econom",
+		"borderColor": "#99AF00",
+		"fill": false
+	}],
+	"History": [{
+		"data": [1, 1, 1, 0, 1, 3, 1, 8, 6, 3],
+		"label": "-1_war_sloven_articl_cultur",
+		"borderColor": "#6A05D4",
+		"fill": false
+	}],
+	"Materials Science": [{
+		"data": [4, 3, 5, 8, 6, 4, 10, 13, 6, 6],
+		"label": "-1_tablet_polymersom_arteri_lubric",
+		"borderColor": "#14301F",
+		"fill": false
+	}, {
+		"data": [4, 8, 5, 5, 6, 8, 7, 16, 3, 0],
+		"label": "0_nemat_phase_liquid cryst_liquid",
+		"borderColor": "#D753B3",
+		"fill": false
+	}, {
+		"data": [7, 5, 2, 0, 6, 3, 8, 4, 3, 1],
+		"label": "1_chitosan_antimicrobi_wound_antioxid",
+		"borderColor": "#1BE5EE",
+		"fill": false
+	}, {
+		"data": [1, 0, 2, 3, 2, 6, 3, 8, 4, 5],
+		"label": "2_cut_machin_laser_steel",
+		"borderColor": "#78A48F",
+		"fill": false
+	}, {
+		"data": [3, 5, 3, 1, 2, 3, 5, 6, 1, 0],
+		"label": "3_sensor_fiber_optic_fabri",
+		"borderColor": "#A76BD1",
+		"fill": false
+	}, {
+		"data": [3, 3, 2, 3, 2, 1, 7, 3, 2, 3],
+		"label": "4_fatigu_crack_stress_load",
+		"borderColor": "#594BA8",
+		"fill": false
+	}, {
+		"data": [3, 0, 4, 1, 3, 7, 4, 3, 0, 1],
+		"label": "5_aunp_usp_gold_nanoparticl",
+		"borderColor": "#1083BB",
+		"fill": false
+	}, {
+		"data": [0, 0, 1, 3, 2, 1, 2, 5, 6, 4],
+		"label": "6_corros_inhibitor_corrosion inhibitor_inhibit",
+		"borderColor": "#3AD210",
+		"fill": false
+	}, {
+		"data": [2, 0, 1, 1, 2, 5, 3, 3, 4, 1],
+		"label": "7_fabric_cotton_print_dye",
+		"borderColor": "#377C24",
+		"fill": false
+	}, {
+		"data": [2, 1, 0, 0, 2, 4, 4, 5, 2, 0],
+		"label": "8_magnet_mnps_magnetic field_nanoplatelet",
+		"borderColor": "#C4BB73",
+		"fill": false
+	}],
+	"Psychology": [{
+		"data": [9, 15, 21, 30, 40, 49, 32, 65, 31, 7],
+		"label": "0_studi_student_educ_teacher",
+		"borderColor": "#F662DD",
+		"fill": false
+	}, {
+		"data": [2, 3, 0, 1, 1, 0, 2, 1, 0, 0],
+		"label": "1_cooper_punish_payoff_game",
+		"borderColor": "#32F563",
+		"fill": false
+	}],
+	"Linguistics": [{
+		"data": [0, 0, 0, 0, 0, 1, 1, 2, 5, 2],
+		"label": "-1_languag_sloven_translat_english",
+		"borderColor": "#69F597",
+		"fill": false
+	}],
+	"Geology": [{
+		"data": [3, 0, 0, 2, 2, 1, 2, 0, 6, 1],
+		"label": "-1_timber_model_studi_structur",
+		"borderColor": "#8D0919",
+		"fill": false
+	}],
+	"Philosophy": [{
+		"data": [1, 0, 0, 0, 0, 2, 0, 1, 3, 2],
+		"label": "-1_scienc_slovenian_dialogu_histor",
+		"borderColor": "#7B17FD",
+		"fill": false
+	}],
+	"Mathematics": [{
+		"data": [2, 3, 0, 2, 0, 5, 3, 2, 2, 0],
+		"label": "-1_control_inverse limit_delay_invers",
+		"borderColor": "#CD161F",
+		"fill": false
+	}, {
+		"data": [2, 1, 2, 4, 14, 14, 19, 23, 11, 6],
+		"label": "0_graph_domin_vertic_vertex",
+		"borderColor": "#8CE908",
+		"fill": false
+	}, {
+		"data": [0, 3, 0, 3, 7, 4, 5, 4, 1, 1],
+		"label": "1_cooper_network_social_popul",
+		"borderColor": "#D030D6",
+		"fill": false
+	}, {
+		"data": [6, 4, 2, 4, 2, 2, 1, 3, 0, 0],
+		"label": "2_solut_optim_method_design",
+		"borderColor": "#7607F9",
+		"fill": false
+	}, {
+		"data": [2, 2, 1, 2, 1, 3, 4, 4, 2, 1],
+		"label": "3_algebra_map_linear map_lie",
+		"borderColor": "#F30EFC",
+		"fill": false
+	}, {
+		"data": [1, 0, 2, 1, 2, 7, 1, 2, 3, 2],
+		"label": "4_bifurc_limit cycl_system_cycl",
+		"borderColor": "#81DB9A",
+		"fill": false
+	}, {
+		"data": [1, 1, 2, 2, 0, 3, 2, 0, 1, 2],
+		"label": "5_prime_semiprim_additive map_deriv",
+		"borderColor": "#DEC0E2",
+		"fill": false
+	}, {
+		"data": [2, 1, 2, 1, 1, 0, 0, 6, 0, 0],
+		"label": "6_plant_regress_planting spe_interpret",
+		"borderColor": "#3F46EB",
+		"fill": false
+	}, {
+		"data": [0, 0, 1, 1, 1, 2, 3, 3, 0, 0],
+		"label": "7_partial_star_star parti_array",
+		"borderColor": "#22875D",
+		"fill": false
+	}, {
+		"data": [0, 1, 0, 3, 3, 1, 1, 1, 0, 0],
+		"label": "8_motor unit_motor_emg_signal",
+		"borderColor": "#55950F",
+		"fill": false
+	}],
+	"Environmental Science": [{
+		"data": [0, 0, 2, 1, 4, 3, 5, 4, 4, 2],
+		"label": "-1_fuel_product_vehicl_traffic",
+		"borderColor": "#136E5C",
+		"fill": false
+	}, {
+		"data": [2, 0, 1, 2, 2, 5, 3, 5, 3, 3],
+		"label": "0_wast_heat_temperatur_gas",
+		"borderColor": "#F3F77D",
+		"fill": false
+	}, {
+		"data": [0, 0, 0, 1, 1, 2, 1, 4, 5, 2],
+		"label": "1_build_urban_imag_uhi",
+		"borderColor": "#BA2CBB",
+		"fill": false
+	}, {
+		"data": [1, 1, 0, 0, 2, 1, 0, 4, 1, 1],
+		"label": "2_dye_groundwat_water_sampl",
+		"borderColor": "#EC3B0E",
+		"fill": false
+	}, {
+		"data": [0, 0, 1, 1, 1, 1, 6, 0, 1, 0],
+		"label": "3_solar_energi_util_integr",
+		"borderColor": "#396EC8",
+		"fill": false
+	}, {
+		"data": [1, 0, 0, 0, 1, 1, 1, 2, 2, 1],
+		"label": "4_speci_soil_abund_habitat",
+		"borderColor": "#A60D01",
+		"fill": false
+	}, {
+		"data": [0, 0, 0, 1, 1, 3, 0, 1, 0, 0],
+		"label": "5_price_electr_hour_bioga",
+		"borderColor": "#D16D7D",
+		"fill": false
+	}],
+	"Engineering": [{
+		"data": [10, 6, 11, 8, 6, 8, 7, 5, 3, 4],
+		"label": "-1_hydraul_electrod_wind_ground",
+		"borderColor": "#CFB814",
+		"fill": false
+	}, {
+		"data": [0, 2, 0, 1, 3, 2, 4, 0, 5, 8],
+		"label": "0_timber_crack_structur_load",
+		"borderColor": "#B9355A",
+		"fill": false
+	}, {
+		"data": [2, 3, 3, 5, 4, 6, 2, 0, 0, 0],
+		"label": "1_cut_machin_vibrat_gear",
+		"borderColor": "#40B8F2",
+		"fill": false
+	}, {
+		"data": [3, 3, 3, 1, 6, 0, 3, 0, 1, 0],
+		"label": "2_measur_sensor_optic_fiber",
+		"borderColor": "#2C3EC7",
+		"fill": false
+	}, {
+		"data": [2, 6, 5, 1, 0, 1, 2, 0, 0, 1],
+		"label": "3_roundabout_transport_interject_port",
+		"borderColor": "#AF7C0C",
+		"fill": false
+	}, {
+		"data": [1, 4, 1, 3, 1, 1, 3, 0, 1, 0],
+		"label": "4_smart_mainten_quality manag_organis",
+		"borderColor": "#B87823",
+		"fill": false
+	}, {
+		"data": [3, 3, 1, 0, 2, 2, 1, 1, 1, 1],
+		"label": "5_project_bim_construct_schedul",
+		"borderColor": "#5A7AC4",
+		"fill": false
+	}, {
+		"data": [2, 0, 0, 1, 0, 2, 0, 0, 3, 5],
+		"label": "6_membran_filter_wastewat_fabric",
+		"borderColor": "#582D2F",
+		"fill": false
+	}, {
+		"data": [0, 1, 3, 0, 1, 0, 1, 0, 4, 2],
+		"label": "7_transmiss_power_fault_network",
+		"borderColor": "#187B54",
+		"fill": false
+	}, {
+		"data": [0, 3, 0, 0, 1, 1, 1, 0, 2, 4],
+		"label": "8_particl_granul_cavit_settl",
+		"borderColor": "#5F2DBD",
+		"fill": false
+	}]
+}
